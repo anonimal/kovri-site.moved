@@ -1,4 +1,6 @@
-# Kovri
+# **Moved to https://github.com/monero-project/kovri-site**
+
+------------------------------------------------------------
 
 Copyright (c) 2015-2017, The Kovri I2P Router Project
 
